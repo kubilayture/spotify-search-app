@@ -11,3 +11,5 @@ Jammming is a React app that makes creating custom spotify playlist easier. You 
 - Remove Song from Custom Playlist — users can remove a track from their playlist by selecting a - sign on the right side of the track’s display container.
 - Change Playlist Title — users can change the title of their custom playlist.
 - Save Playlist to Account — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
+
+![image info](./public/Jammming_Screen.png)
