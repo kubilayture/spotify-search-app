@@ -1,0 +1,1 @@
+export const client_id = 'f9e625fca69546f897d5ccc0a39dbd39';
