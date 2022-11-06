@@ -2,7 +2,7 @@ import { client_id } from "./clientId"
 
 let accessToken;
 const clientId = client_id;
-const redirectUri = "http://jammmingprojectbykubilay.surge.sh/"
+const redirectUri = "https://kubilayture.github.io/Jammming/"
 
 const Spotify = {
     getAccessToken() {
