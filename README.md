@@ -2,7 +2,7 @@
 
 Jammming is a React app that makes creating custom spotify playlist easier. You can search song, album or artist on searchbar, add the songs from search result to playlist section by clicking + icon. Then you can rename the title of playlist section and add to your own spotify list by clicking save to spotify button.
 
-[You Can See the Project Here](https://kubilayture-ravenous-app.netlify.app/)
+[You Can See the Project Here](https://kubilayture-jammming.netlify.app/)
 
 ## Features
 
